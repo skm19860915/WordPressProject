@@ -1,0 +1,222 @@
+
+---Downloaded files---
+The import files for: Default BookYourTravel were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://goedkopereizencuracao.local
+Data file = C:\Users\kenne\Local Sites\goedkopereizencuracao\app\public/wp-content/themes/BookYourTravel/includes/imports/default/bookyourtravel.WordPress.xml
+Widget file = C:\Users\kenne\Local Sites\goedkopereizencuracao\app\public/wp-content/themes/BookYourTravel/includes/imports/default/bookyourtravel.Widgets.wie
+Customizer file = C:\Users\kenne\Local Sites\goedkopereizencuracao\app\public/wp-content/themes/BookYourTravel/includes/imports/default/bookyourtravel.Customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "
+				woocommerce_update_marketplace_suggestions		": Invalid post type scheduled-action
+[WARNING] Failed to import "
+				woocommerce_update_marketplace_suggestions		": Invalid post type scheduled-action
+[WARNING] Failed to import "
+				woocommerce_update_marketplace_suggestions		": Invalid post type scheduled-action
+
+
+---Importing widgets---
+Left Sidebar : 
+
+BookYourTravel: Search - Refine search results - Imported
+BookYourTravel: Search - Refine search results - Imported
+BookYourTravel: Search - Refine search results - Imported
+BookYourTravel: Search - Refine search results - Imported
+BookYourTravel: Search - Refine search results - Imported
+
+Right Sidebar : 
+
+BookYourTravel: Location List - Top destinations - Imported
+BookYourTravel: Accommodation List - Popular hotels - Imported
+BookYourTravel: Accommodation List - Deal of the day - Imported
+BookYourTravel: Car Rental List - Need a car? - Imported
+BookYourTravel: Tour List - Top city tours - Imported
+BookYourTravel: Cruise List - Our latest cruises - Imported
+
+Right Accommodation Sidebar : 
+
+Text - Why book with us? - Imported
+Text - Need help booking? - Imported
+BookYourTravel: Accommodation List - Popular accommodations - Imported
+
+Right Tour Sidebar : 
+
+Text - Why book with us? - Imported
+Text - Need help booking? - Imported
+BookYourTravel: Tour List - Explore our latest tours - Imported
+
+Right Cruise Sidebar : 
+
+Text - Why book with us? - Imported
+Text - Need help booking? - Imported
+BookYourTravel: Cruise List - Popular cruises - Imported
+
+Right Car Rental Sidebar : 
+
+Text - Why book with us? - Imported
+Text - Need help booking? - Imported
+BookYourTravel: Car Rental List - Popular car rentals - Imported
+
+Hero Sidebar : 
+
+BookYourTravel: Search - No Title - Imported
+BookYourTravel: Search - Find your accommodation - Imported
+BookYourTravel: Search - Find your tour - Imported
+BookYourTravel: Search - Find your cruise - Imported
+BookYourTravel: Search - Find your car - Imported
+Slider Revolution - No Title - Imported
+Slider Revolution - No Title - Imported
+
+Above Footer Sidebar : 
+
+BookYourTravel: Call-To-Action Widget - No Title - Imported
+
+Footer Sidebar : 
+
+BookYourTravel: Address Widget - No Title - Imported
+BookYourTravel: Social Widget - Follow us - Imported
+Custom HTML - Help - Imported
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+Home Footer Widget Area : 
+
+BookYourTravel: Home Feature Widget - Handpicked Accommodations - Imported
+BookYourTravel: Home Feature Widget - Detailed Descriptions - Imported
+BookYourTravel: Home Feature Widget - Exclusive Knowledge - Imported
+BookYourTravel: Home Feature Widget - Passionate Service - Imported
+BookYourTravel: Home Feature Widget - Best Price Guarantee - Imported
+BookYourTravel: Home Feature Widget - Secure Booking - Imported
+BookYourTravel: Home Feature Widget - Benefits for Partners - Imported
+BookYourTravel: Home Feature Widget - Any Questions? - Imported
+
+Home Content Widget Area : 
+
+BookYourTravel: Post List - Explore our latest offers - Imported
+BookYourTravel: Accommodation List - Explore our latest accommodations - Imported
+BookYourTravel: Tour List - Explore our latest tours - Imported
+BookYourTravel: Cruise List - Explore our latest cruises - Imported
+BookYourTravel: Car Rental List - Explore our latest car rentals - Imported
+BookYourTravel: Location List - Top destinations around the world - Imported
+
+Max Mega Menu Widgets : 
+
+Text - Single accommodation - Imported
+Text - Content filtering - Imported
+Text - Listings layouts - Imported
+Text - Booking settings - Imported
+BookYourTravel: Accommodation List - Featured accommodation - Imported
+Text - &nbsp; - Imported
+Text - Listings layouts - Imported
+Text - Single tour - Imported
+Text - Content filtering - Imported
+Text - Schedules - Imported
+BookYourTravel: Tour List - Featured tours - Imported
+Text - Booking settings - Imported
+Text - Listings layouts - Imported
+Text - Single cruise - Imported
+Text - Content filtering - Imported
+Text - Schedules - Imported
+Text - Booking settings - Imported
+BookYourTravel: Cruise List - Featured cruises - Imported
+BookYourTravel: Car Rental List - Featured car rentals - Imported
+Text - Listings layouts - Imported
+Text - Single car rental - Imported
+Text - Content filtering - Imported
+Text - Booking settings - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

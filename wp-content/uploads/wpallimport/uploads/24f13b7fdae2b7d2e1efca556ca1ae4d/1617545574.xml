@@ -1,0 +1,2995 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generated on 04/04/21 at 16:12:54 (https://pf.tradetracker.net) -->
+<products>
+<product ID="19902">
+<name>Flamingo Park</name>
+<price currency="EUR">730.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fflamingo-park-50919902%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/DA9/DA95F213E4CB00FD5784355E8EDADDBB.jpg</image>
+<image>https://media.tuicontent.nl/A38/A388AEAB63F0BA5124E70CE51656F3E4.jpg</image>
+<image>https://media.tuicontent.nl/E61/E61AA2D42B14B4285E8801144159F674.jpg</image>
+<image>https://media.tuicontent.nl/27A/27A85F2E53034F7F1105327F0C3B1C1C.jpg</image>
+<image>https://media.tuicontent.nl/3B5/3B58ED208C6D2089B79A70C45C71D1DF.jpg</image>
+</images>
+<description><![CDATA[Bij Flamingo Park zit je midden in de natuur van Curaçao. De kronkelende paden brengen je bij je bungalow. Dat wordt barbecueën op het terras. Maar dan wel onder de tropische zon. Ga er lekker op uit. Om de hoek wonen de roze flamingo's van Jan Kok. En iets verderop ligt Playa Cas Abao. Kijk of het water echt zo blauw is als ze zeggen. Bij terugkomst neem je plaats aan de gezellige koffietafel.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Sint Willibrordus</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>7.5</value>
+</property>
+<property name="numberOfReviews">
+<value>2</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-69.06078588</value>
+</property>
+<property name="latitude">
+<value>12.22813748</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fsint-willibrordus%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Kleinschalig eco resort</value>
+<value>Aan de westkant van het eiland</value>
+<value>Rustige en groene ligging</value>
+<value>Ga er lekker op uit</value>
+<value>Spot flamingo's in de vrije natuur</value>
+<value>Boek een boodschappenpakket bij, ideaal!</value>
+<value>Gratis WiFi aanwezig</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-03-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fflamingo-park-50919902%3FDepartureDate%3D2021-03-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>730.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="84439">
+<name>Dolphin Suites</name>
+<price currency="EUR">969.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fdolphin-suites-50984439%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/16F/16F6D0900DCCCF0CBA6F70B345A9ADFF.jpg</image>
+<image>https://media.tuicontent.nl/A0D/A0D59AD4E15A29F338518AC25994E636.jpg</image>
+<image>https://media.tuicontent.nl/E49/E49788CE1362E86E315B63AEFEB13F36.jpg</image>
+<image>https://media.tuicontent.nl/FD8/FD8C5A82C4C6E07CEB83F6CA03071AB5.jpg</image>
+<image>https://media.tuicontent.nl/41B/41B9BD93B4CF1A7F12280CACB2E3E3A8.jpg</image>
+</images>
+<description><![CDATA[Dolphin Suites wil dat een zonvakantie Curaçao voor íedereen in het teken van ontspanning staat. Daarom is heel het resort rolstoeltoegankelijk. Van de douchestoel in de ruime kamers tot de liften en speciaal rolstoelvervoer. Strijk neer op de heerlijke ligbedden bij het zwembad en laat je culinair verrassen op het hippe Mambo Beach. Extra fijn: bij een verblijf in Dolphin Suites mag je onbeperkt naar het Curaçao Sea Aquarium! Optioneel een auto bij huren tijdens je verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Mambo Beach</value>
+</property>
+<property name="stars">
+<value>3.5</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>52</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.89609516</value>
+</property>
+<property name="latitude">
+<value>12.08588642</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fmambo-beach%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Hier kom je thuis</value>
+<value>Met liefde ingerichte kamers</value>
+<value>Buren van Dolfijntherapiecenter</value>
+<value>Rolstoeltoegankelijk hotel</value>
+<value>Onbeperkt naar Sea Aquarium</value>
+<value>Tegenover hip Mambo Beach</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fdolphin-suites-50984439%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>969.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="72262">
+<name>Renaissance Curaçao Resort &amp; Casino</name>
+<price currency="EUR">1135.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Frenaissance-curacao-resort-en-casino-50972262%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/FAF/FAF5B5BBA15C8A134F41048DAD1A4C71.jpg</image>
+<image>https://media.tuicontent.nl/976/976BB0CD043CF0F8E5DC636812C45ED9.jpg</image>
+<image>https://media.tuicontent.nl/4F8/4F8746CD0DAFA3015B0D22F7E53DE44C.jpg</image>
+<image>https://media.tuicontent.nl/4FD/4FD02BEAB62616FC1DA47E579251294F.jpg</image>
+<image>https://media.tuicontent.nl/1AC/1AC5BEF3535BF2D8308CB3D05FBDCE65.jpg</image>
+</images>
+<description><![CDATA[Centraler wordt het niet bij het Renaissance Curacao Resort & Casino. Vanuit het hotel wandel je zo langs de winkels richting de pontjesbrug en de kleurrijke handelskade. Als je na het verkennen van Willemstad terugkomt in het hotel voor een frappucino van de Starbucks, wil je nooit meer naar huis. Poko Poko, langzaamaan, want dit is Curaçao. Als de vriendelijke kok 's ochtends je verse pancakes bakt, maak jij een planning voor vandaag. Of wat dacht je van bijkomen op het aangelegde privéstrand van het hotel? Droom weg in de infinity pool en zwaai naar het voorbijvarende cruiseschip. En na een relaxte dag wacht je moderne kamer vol luxe. Drumi Dushi. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="All Inclusive">All Inclusive</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>4.5</value>
+</property>
+<property name="rating">
+<value>8.9</value>
+</property>
+<property name="numberOfReviews">
+<value>70</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.93814166666</value>
+</property>
+<property name="latitude">
+<value>12.105061111111</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Tijdelijk gratis ontbijt*</value>
+<value>Heerlijk privé strand aan zee</value>
+<value>In het hart van Willemstad</value>
+<value>Koffie halen bij Starbucks</value>
+<value>Infinitypool: eindeloos genieten</value>
+<value>Logeren in luxe en comfort</value>
+<value>Met bioscoop en hippe boetieks</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Frenaissance-curacao-resort-en-casino-50972262%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1135.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="716377">
+<name>Beleef Curaçao</name>
+<price currency="EUR">814.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbeleef-curacao-509716377%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/BC0/BC0DA9D8F9B0B95CF20E11F71DAAD6B6.jpg</image>
+<image>https://media.tuicontent.nl/A82/A828B4803C97593EEC84CA3465A6670D.jpg</image>
+<image>https://media.tuicontent.nl/B1D/B1DE4576A7BCDA46CED0DF33354D218B.jpg</image>
+<image>https://media.tuicontent.nl/EC7/EC7916F1CA1EA5EC6F86094FA307DB3E.jpg</image>
+<image>https://media.tuicontent.nl/B70/B7046B7C0C33706DCFE90685EB02B2B2.jpg</image>
+</images>
+<description><![CDATA[Dit ervaar je bij Beleef Curaçao Appartementen. Kleinschalig, maar groots in relaxen. Niets moet, alles mag. Aan de grote koffietafel drink je 's ochtends een kop koffie. Én ontmoet je nieuwe vakantievrienden. Jessica en Walter delen graag hun tips van dushi Kòrsau. Unieke plekken, maar ook de bekende hotspots. De appartementen zijn stijlvol ingericht door Jessica. Bijna zonde om meer buiten dan binnen te zitten. Onder het genot van een verkoelend drankje steek je de barbecue aan. Misschien wel samen met je nieuwe vakantievrienden. En bij het afscheid hang je een bordje neer aan de bar. Als er nog plek is.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value></value>
+</property>
+<property name="numberOfReviews">
+<value></value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value></value>
+</property>
+<property name="latitude">
+<value></value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Een kleinschalig resort</value>
+<value>Sfeervolle appartementen</value>
+<value>Rustig gelegen</value>
+<value>Stranden op steenworp afstand</value>
+<value>Relaxen en onthaasten</value>
+<value>Inclusief huurauto</value>
+<value>NL eigenaren Walter en Jessica</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbeleef-curacao-509716377%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>814.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="485126">
+<name>The Ritz Village</name>
+<price currency="EUR">868.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fthe-ritz-village-509485126%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/5CD/5CD0D0F636CA67D57ED3FDF3FAF4703C.jpg</image>
+<image>https://media.tuicontent.nl/975/975B154542ED02610E2D601E12B0A4F0.jpg</image>
+<image>https://media.tuicontent.nl/40B/40B74CD8BA6225DCE141027FAD1C7212.jpg</image>
+<image>https://media.tuicontent.nl/77B/77BFA63748A9A97220545A154627988B.jpg</image>
+<image>https://media.tuicontent.nl/898/8988490D94F7D8BAA210BDF8961DBB58.jpg</image>
+</images>
+<description><![CDATA[Verblijf in de monumentale wijk Scharloo aan de rand van het centrum Punda, in de voormalige ijsfabriek The Ritz. 70 jaar lang was The Ritz de enige ijsfabriek op Curaçao. Na de sluiting in 1999 is het complex liefdevol omgebouwd tot een hotel-studio waarbij de historische gebouwen gespaard bleven. Iedereen vanaf 18 jaar is welkom. The Ritz Village voelt aan als een klein dorpje. Het heeft zijn eigen straatje, met een restaurant, minimarkt, wasserette en auto verhuur. En weet je wat leuk is? Bij het inchecken en uitchecken krijg je een ijsje. Optioneel een auto bij huren tijdens je verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>8.2</value>
+</property>
+<property name="numberOfReviews">
+<value>138</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.92694592</value>
+</property>
+<property name="latitude">
+<value>12.10647689</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Adults Only</value>
+<value>Slapen in een oude ijsfabriek</value>
+<value>Lopend naar hartje Willemstad</value>
+<value>Dichtbij het gezellige Pietermaai</value>
+<value>Zwembad en jacuzzi</value>
+<value>Gratis wifi: vakantiefoto's delen</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-03-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fthe-ritz-village-509485126%3FDepartureDate%3D2021-03-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>868.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="35856">
+<name>Sunscape Curaçao Resort, Spa &amp; Casino</name>
+<price currency="EUR">1072.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fsunscape-curacao-resort-spa-en-casino-50935856%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/891/8916EF20DDE61A7D4D72F4CEC5FB053D.jpg</image>
+<image>https://media.tuicontent.nl/342/342DE0300B8048541D9EB15349E40749.jpg</image>
+<image>https://media.tuicontent.nl/9F2/9F206283C45F434612DE5DDF8D9F0869.jpg</image>
+<image>https://media.tuicontent.nl/C9F/C9F9F18770E082E6AC7A18A19E4BBBAA.jpg</image>
+<image>https://media.tuicontent.nl/10A/10AD263185071818870515942C828514.jpg</image>
+</images>
+<description><![CDATA[Sunscape Curaçao Resort, Spa & Casino is een volledige All Inclusive resort op Curaçao. Met een privé strand voor de deur en 3 zwembaden is er volop verkoeling. En als je geen rust hebt om de hele dag op een loungebed te liggen, hoef je je met Unlimited-Fun® geen moment te vervelen. Beach volleybal, een film op het strand, de kids- en teenclub, het zit allemaal bij de prijs. En met live muziek en shows is het iedere avond een feest op Mambo Beach. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="All Inclusive">All Inclusive</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Mambo Beach</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>7.6</value>
+</property>
+<property name="numberOfReviews">
+<value>358</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.90192222222</value>
+</property>
+<property name="latitude">
+<value>12.089363888888</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fmambo-beach%2F</value>
+</property>
+<property name="allInclusive">
+<value>true</value>
+</property>
+<property name="facilities">
+<value>Privé zandstrand voor de deur</value>
+<value>Grenzend aan hip Mambo Beach</value>
+<value>24 uurs All Inclusive</value>
+<value>Extra voordelen Sun Club kamers</value>
+<value>Animatie voor jong en oud</value>
+<value>Gratis shuttle service Willemstad</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fsunscape-curacao-resort-spa-en-casino-50935856%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1072.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="54317">
+<name>LionsDive Beach Resort</name>
+<price currency="EUR">948.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Flionsdive-beach-resort-50954317%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/2DA/2DA1440C88B919DD6670E3658D6561E3.jpg</image>
+<image>https://media.tuicontent.nl/370/370B89359B26B4540F8787374F3B8CEF.jpg</image>
+<image>https://media.tuicontent.nl/796/796380D36FE2AE0E0D559CC934C3F4C0.jpg</image>
+<image>https://media.tuicontent.nl/268/268D67B6AB95FB24DFE477EF7B9ECCCF.jpg</image>
+<image>https://media.tuicontent.nl/E8F/E8FCCFEE03F2D8F4B7BB1F7600EEDB0E.jpg</image>
+</images>
+<description><![CDATA[Bij het LionsDive Beach Resort in Mambo Beach hebben ze goed begrepen wat een relaxte strandvakantie inhoudt. Alle ruimte om je heen, mooie kamers voor koppels en appartementen voor families of vrienden, en met een nationaal onderwaterpark voor de deur. LionsDive is een icoon op Curaçao en dat komt ook omdat ze het enige 50-meterbad in de hele Caribbean hebben. Een geruststellende gedachte: je hóeft hier geen baantjes te trekken. Het blijft natuurlijk wel vakantie, dus zoek de schaduw op onder de palmboom, geniet in het Hemingway restaurant en ga duiken bij het huisrif. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Mambo Beach</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>9.2</value>
+</property>
+<property name="numberOfReviews">
+<value>356</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.89746388888</value>
+</property>
+<property name="latitude">
+<value>12.085547222222</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fmambo-beach%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Sportievelingen opgelet</value>
+<value>Duik in het unieke 50-meterbad</value>
+<value>Relaxen op het fantastische strand</value>
+<value>Ruime keuze in de 4 restaurants</value>
+<value>Koppels en families; wees welkom!</value>
+<value>Vele sportactiviteiten</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Flionsdive-beach-resort-50954317%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>948.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="71728">
+<name>Kontiki Beach Resort Curaçao</name>
+<price currency="EUR">1192.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fkontiki-beach-resort-curacao-50971728%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/F95/F95C74E71E4BC2B8ED287E8842A5066E.jpg</image>
+<image>https://media.tuicontent.nl/C90/C90364172155CC22791410B222D3BD26.jpg</image>
+<image>https://media.tuicontent.nl/D58/D58F986FF2DCA3D6AC0A037516C7D59F.jpg</image>
+<image>https://media.tuicontent.nl/CFC/CFC47E45B118788E754BB647A5EF19A5.jpg</image>
+<image>https://media.tuicontent.nl/2DC/2DC5D412A36AE9F81716C631B9FAE774.jpg</image>
+</images>
+<description><![CDATA[Bij aankomst in het Kontiki Beach Resort deelt het attente team tropische kokosnoten uit mét rietje. Een golfkarretje neemt nieuwe gasten mee naar de hotelkamers onder exotische Palapa daken. Het zwembad lijkt niet op te houden. Als een meanderende rivier stroomt het zeewater door het hele resort. Dat betekent straks een duik zó vanuit de kamer. Terwijl de vriendelijke bellboy de kamer laat zien, bestel je in gedachten alvast een Pina Colada aan het altijd gezellige Mambo Beach. En als de strandvakantie op Curaçao er straks weer op zit, staat het Kontiki team je uit te zwaaien. Hoe leuk is dat! Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Mambo Beach</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>9.1</value>
+</property>
+<property name="numberOfReviews">
+<value>457</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.89965833333</value>
+</property>
+<property name="latitude">
+<value>12.088572222222</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fmambo-beach%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Aan het gezellige Cabana Beach</value>
+<value>Zwembadrivier door het resort</value>
+<value>Hier voel je je in de tropen</value>
+<value>Kamer uit, zwembad in</value>
+<value>Borrelen bij Cabana of Mood Beach</value>
+<value>Loungen op de veranda</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-01</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fkontiki-beach-resort-curacao-50971728%3FDepartureDate%3D2021-06-01%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1192.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="200646">
+<name>Morena Resort Appartementen &amp; Villa's</name>
+<price currency="EUR">1017.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fmorena-resort-appartementen-en-villa-s-509200646%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/06A/06A91F1A10451D55B598261876566D19.jpg</image>
+<image>https://media.tuicontent.nl/8F5/8F543EE6B6A5D16187E6D7BF524EC8C7.jpg</image>
+<image>https://media.tuicontent.nl/D8A/D8AC592B86E380839CEDDB4BC3EC1653.jpg</image>
+<image>https://media.tuicontent.nl/D0A/D0A3985CCD9A6EB955B365EBF1927D70.jpg</image>
+<image>https://media.tuicontent.nl/8F7/8F74DA3B1031D9D4941EC461BCEA63B2.jpg</image>
+</images>
+<description><![CDATA[De sfeervolle appartementen en ruime villa's van Morena Resort Appartementen & Villa's liggen verscholen in een tropische tuin. Open de duurzame teakhouten schuifpui en plof neer op het comfortabele zitje. Vanaf je riante terras is het genieten van die weelderige plantentuin, ook voor de kwetterende tropische vogeltjes. Onvoorstelbaar dat het bruisende Jan Thiel strand maar 5 minuten verderop ligt. Straks eerst richting de zwembaden, waar het heerlijk vertoeven is dankzij de schaduwrijke palappa's en de fijne ligbedden. En als de avond inzet, is het de hoogste tijd voor een lekker diner bij het huisrestaurant Fuego of Mocca. Welkom op dushi Curaçao. Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>450</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.875</value>
+</property>
+<property name="latitude">
+<value>12.077972222222</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Riante buitenterrassen</value>
+<value>Een oase van rust</value>
+<value>Luxe appartement of royale villa?</value>
+<value>Grote (eco)zwembaden</value>
+<value>Gratis toegang Jan Thiel strand</value>
+<value>Groen: met duurzaamheidslabel</value>
+<value>Erkend met duurzaamheidslabel</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fmorena-resort-appartementen-en-villa-s-509200646%3FDepartureDate%3D2021-05-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1017.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="60672">
+<name>Blue Bay Curaçao Golf &amp; Beach Resort</name>
+<price currency="EUR">1095.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fblue-bay-curacao-golf-en-beach-resort-50960672%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/B24/B245A9659D501D9FD97B35864F030DE0.jpg</image>
+<image>https://media.tuicontent.nl/4BD/4BDF89F707C0A272499FA866FBED1434.jpg</image>
+<image>https://media.tuicontent.nl/F6D/F6D88E6EAE6D051A0E6E05B1720FD31E.jpg</image>
+<image>https://media.tuicontent.nl/344/3448EDE685E4DA720A4D3501FB0C71F8.jpg</image>
+<image>https://media.tuicontent.nl/3AD/3ADC2F0F62C1ACD8EB3127B0520609CD.jpg</image>
+</images>
+<description><![CDATA[Op een uitgestrekte en rustige locatie vind je het prachtige Blue Bay Curaçao Golf & Beach Resort. Blue Bay ligt in een mooie baai met een wit zandstrand voor de deur. De luxe appartementen en villa's zijn compleet ingericht en voorzien van alle benodigde faciliteiten. Voor de golfers: het complex beschikt over een 18-holes golfbaan. Heb jij al een hole-in-one geslagen? Of zit je liever met een verfrissend drankje bij de Beach Bar? Afkoelen kan trouwens ook in één van de zwembaden. En om je vakantie helemaal compleet te maken dineer je 's avonds als de zon ondergaat. Optioneel een auto huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Blauw Baai</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>8.3</value>
+</property>
+<property name="numberOfReviews">
+<value>28</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.98454166666</value>
+</property>
+<property name="latitude">
+<value>12.134833333333</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fblauw-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Luxe appartementen en villa's</value>
+<value>Aan een prachtige baai</value>
+<value>Gratis 18-holes golfbaan op het resort</value>
+<value>Rust en comfort</value>
+<value>Uitstekende bars en restaurants</value>
+<value>Hier voel je je thuis</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fblue-bay-curacao-golf-en-beach-resort-50960672%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1095.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="25662">
+<name>Curaçao Marriott Beach Resort</name>
+<price currency="EUR">1096.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fcuracao-marriott-beach-resort-50925662%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/937/937E980A2D0EE829B3D220D5D83C6F2E.jpg</image>
+<image>https://media.tuicontent.nl/6BC/6BC0CC94F0BA4B5FE8667FF0B8A22AD6.jpg</image>
+<image>https://media.tuicontent.nl/738/7384E3268E8CA468F03204C2DDC3F5DE.jpg</image>
+<image>https://media.tuicontent.nl/ECD/ECD841B67B7BB5F57EB22EC0CFE55950.jpg</image>
+<image>https://media.tuicontent.nl/DD7/DD7BA51D53BAB5252835DC7C0B3854F3.jpg</image>
+</images>
+<description><![CDATA[Het Curaçao Marriot Beach Resort opent de deuren weer na een grote metamorfose. Wie nu boekt, slaapt straks uit op gloednieuwe bedden en duikt in het vernieuwde infinity pool aan de Piscadera Baai. Niet álles is veranderd. Als vanouds loop je hier met een smoothie in de hand zó het witte zandstrand op. Vanavond een hapje eten bij Zala Gastro Lounge of wordt het toch de Izakaya Sushi Bar? In je kamer heb je alle ruimte om te relaxen. En boek je een zeezichtkamer, dan trakteert het resort je op een uitzicht om bij weg te dromen. En dat iedere vakantiedag opnieuw. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="All Inclusive">All Inclusive</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Piscadera Baai</value>
+</property>
+<property name="stars">
+<value>5</value>
+</property>
+<property name="rating">
+<value>8.4</value>
+</property>
+<property name="numberOfReviews">
+<value>61</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.96613888888</value>
+</property>
+<property name="latitude">
+<value>12.118441666666</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fpiscadera-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Compleet vernieuwd</value>
+<value>Kamer uit, voeten in het zand</value>
+<value>Ontspannen in Marriott luxe</value>
+<value>Met eigen sushi bar</value>
+<value>Aan de mooie baai van Piscadera</value>
+<value>Plons in zwembad of jacuzzi</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fcuracao-marriott-beach-resort-50925662%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1096.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="525650">
+<name>Oasis Coral Estate Beach, Dive &amp; Wellness Resort</name>
+<price currency="EUR">937.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Foasis-coral-estate-beach-dive-en-wellness-resort-509525650%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/8E4/8E4576B09623900A0B5AEEEFFC04AF19.jpg</image>
+<image>https://media.tuicontent.nl/505/505B2824165B097A6AE4ADFE805D784E.jpg</image>
+<image>https://media.tuicontent.nl/68E/68E336D0585AC34242C2E23632B89F81.jpg</image>
+<image>https://media.tuicontent.nl/E4E/E4EA5B8343CD3EEC0EBDCB9D61A09296.jpg</image>
+<image>https://media.tuicontent.nl/9CC/9CC2E4F1677485E89F991E165E4D2B80.jpg</image>
+</images>
+<description><![CDATA[Wat een fijne plek is Oasis Coral Estate Beach, Dive & Wellness Resort. Met een eindeloos uitzicht op zee zijn rustzoekers hier meteen in hun element. Je zit zó op het zandstrand, waar je via een trap de zee in wandelt. Duikbril op, want Rif St. Marie is misschien wel het mooiste duik- en snorkelrif van heel Curaçao. Aan het einde van de dag is het tijd voor cocktails bij de populaire beachclub Karakter. En natuurlijk voor een prachtige Caribische zonsondergang. Of ga je voor een diner bij Rooftop bar Koraal? Deze vakantie kan niet meer stuk! Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Rif St. Marie</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>108</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-69.07585144</value>
+</property>
+<property name="latitude">
+<value>12.19549253</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Frif-st-marie%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Hier kom je om te onthaasten</value>
+<value>Beachclub met 'Karakter'</value>
+<value>Zwembad met eindeloos uitzicht</value>
+<value>Mooiste snorkelplek van Curaçao</value>
+<value>Duikschool op het resort</value>
+<value>Strand voor de deur</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-26</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Foasis-coral-estate-beach-dive-en-wellness-resort-509525650%3FDepartureDate%3D2021-06-26%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>937.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="49559">
+<name>Trupial Inn Hotel &amp; Casino</name>
+<price currency="EUR">798.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Ftrupial-inn-hotel-en-casino-50949559%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/EA1/EA1E61D2B01771760E4BD35B44837BBE.jpg</image>
+<image>https://media.tuicontent.nl/A0C/A0C90DB6F8CA6F90E4C375B35FE98B6C.jpg</image>
+<image>https://media.tuicontent.nl/F3F/F3FA56199ED50A8B41550D4271E7C2F8.jpg</image>
+<image>https://media.tuicontent.nl/1AE/1AE05126429276A3C2BA083F12285980.jpg</image>
+<image>https://media.tuicontent.nl/8E1/8E1AA7CE3DF764DE1180FAC3ABDC32BB.jpg</image>
+</images>
+<description><![CDATA[“Bon dia!” De vrolijke hotelmanager van hotel Trupial Inn zwaait naar de Nederlandse gasten die aan de borrel zitten op hun veranda. De pastelkleurige huisjes zijn rustig gelegen én toch ligt de gezelligheid van Willemstad binnen handbereik. Je pakt de gratis shuttlebus en staat binnen no time midden in Punda of met je voeten in het fijne zand van Mambo Beach. Na een dag op pad is niets zo fijn om rustig bij te komen op een loungebedje bij het zwembad. Vanavond hoef je de deur niet meer uit want het Italiaanse restaurant Rosso biedt een uitgebreide en zeer smakelijke menukaart. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3.5</value>
+</property>
+<property name="rating">
+<value>8.6</value>
+</property>
+<property name="numberOfReviews">
+<value>329</value>
+</property>
+<property name="accommodationType">
+<value></value>
+</property>
+<property name="longitude">
+<value>-68.90448611111</value>
+</property>
+<property name="latitude">
+<value>12.120861111111</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Pak de shuttleservice naar zee</value>
+<value>Helemaal in Caribische sferen</value>
+<value>Met pastelkleurige huisjes</value>
+<value>Hier krijg je waar voor je geld</value>
+<value>Zeer centraal gelegen</value>
+<value>Verken dushi Curaçao</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Ftrupial-inn-hotel-en-casino-50949559%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>798.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="527573">
+<name>Acoya Curaçao Resort, Villas &amp; Spa</name>
+<price currency="EUR">929.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Facoya-curacao-resort-villas-en-spa-509527573%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/2C0/2C0EB546D61FBF741C6C80103D8E0CBD.jpg</image>
+<image>https://media.tuicontent.nl/18D/18D86F4C3D5C13F25A22685ED4DE75D8.jpg</image>
+<image>https://media.tuicontent.nl/F5E/F5E2A4A29B7A66573E553103BCDDBBD2.jpg</image>
+<image>https://media.tuicontent.nl/35F/35F5A3BD78F82844146D8A3039C7CBCA.jpg</image>
+<image>https://media.tuicontent.nl/E42/E42DFE0F1746D4853BA687F6F37DDE3A.jpg</image>
+</images>
+<description><![CDATA[Smile! Dit is ACOYA, klaar om je een onvergetelijke zonvakantie op Curaçao te bezorgen. Dit appartementen- en villapark ligt op een rustige locatie bij Willemstad. De kamers in het hoofdgebouw kijken uit over het riante zwembad en het meer dat centraal is gelegen op het park. Daaromheen zijn de appartementen en de villa's te vinden. Extra handdoek nodig bij het zwembad? Een lift naar Mambo Beach? Het is geregeld voor je het weet. Van de comfortabele kamers tot de villa's met hun eigen zwembad: hier logeer je in rust en ruimte. Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>8.1</value>
+</property>
+<property name="numberOfReviews">
+<value>160</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.90358925</value>
+</property>
+<property name="latitude">
+<value>12.10094849</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Ruime en moderne villa's</value>
+<value>Ook villa's met privé zwembad</value>
+<value>Gratis shuttle stad en strand</value>
+<value>Met een cocktail in het zwembad</value>
+<value>Villa's gelegen rond een meer</value>
+<value>Autohuur optioneel bij te boeken</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Facoya-curacao-resort-villas-en-spa-509527573%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>929.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="716388">
+<name>Bario Hotel</name>
+<price currency="EUR">806.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbario-hotel-509716388%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/952/9526C86D3EC8D777EF8A3F29714A1CFB.jpg</image>
+<image>https://media.tuicontent.nl/953/9531BACE3FF6CFEADE7BEC1A8792D843.jpg</image>
+<image>https://media.tuicontent.nl/BBD/BBD76AB5B18191941E7FC4CBCA5FF7AC.jpg</image>
+<image>https://media.tuicontent.nl/A95/A9535EF4A254B0D5DFCAC1AC067735D3.jpg</image>
+<image>https://media.tuicontent.nl/648/648E2CC15434BC0C8E1EFFCF8E4EEA4F.jpg</image>
+</images>
+<description><![CDATA[Midden in het centrum van Willemstad en gelegen aan de Sint Annabaai, vind je het Bario Hotel. Een kleine maar unieke accommodatie om in te verblijven. De vrolijke uitstraling van het hotel en de comfortabel ingerichte kamers met een vleugje vintage zorgen ervoor dat je er direct thuis voelt. Op nog geen 500 meter lopen ligt de Koningin Emmabrug, die op 16 pontons drijft en hierdoor de enige drijvende houten brug ter wereld is. Steek de brug over en je bent binnen no-time in het oudste en wellicht bekendste deel van het centrum: de wijk Punda. Bezoek de Ronde markt voor authentieke Curaçaose gerechten of pak een taxi naar het bekende Mambo Beach. De mogelijkheden zijn eindeloos. Eén ding is zeker: genieten staat voorop.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>1</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.9349871</value>
+</property>
+<property name="latitude">
+<value>12.1092617</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Sfeervolle oude stadsvilla's</value>
+<value>In het centrum van Willemstad</value>
+<value>Historische achtergrond</value>
+<value>Wandeltour incl. bij 7 nachten verblijf</value>
+<value>Leuke restaurants op loopafstand</value>
+<value>Met een vleugje vintage</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-03-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbario-hotel-509716388%3FDepartureDate%3D2021-03-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>806.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="705219">
+<name>Boho Bohemian Boutique</name>
+<price currency="EUR">919.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fboho-bohemian-boutique-509705219%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/D3D/D3D47386B36961EA6CD6CFC22A03F295.jpg</image>
+<image>https://media.tuicontent.nl/99C/99CC5D18DBF0930B7BF21AEC301E33D7.jpg</image>
+<image>https://media.tuicontent.nl/31C/31C4A268070C236C159F684596F3D2F7.jpg</image>
+<image>https://media.tuicontent.nl/A47/A47E24E206408FE4300F67D8CC04B0C0.jpg</image>
+<image>https://media.tuicontent.nl/6A5/6A50E42358EAB7527608AD2F92F9C498.jpg</image>
+</images>
+<description><![CDATA[Curaçao op z'n Bohemians. Dat is de sfeer die je proeft bij het Bohemian Boutique Hotel in hartje Willemstad. Vanuit het hotel loop je zo de hippe Pietermaai wijk in. Van gezellige cafés tot stadsstranden en kleine winkeltjes, je vindt het allemaal op loopafstand. Maar ook bij het hotel zelf is het goed toeven. In de knusse tuin vind je een klein zwembad met jacuzzi. En voor de lunch grill je je eigen stukje vlees of verse vis op de barbecue. 's Avonds kies je voor één van de top restaurants in de stad. Nog een drankje in Willemstad? Een fijne avondwandeling langs de handelskade? Of alvast terug naar je Boho style kamer? Jij bepaalt!]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>2</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.9259714</value>
+</property>
+<property name="latitude">
+<value>12.1025656</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Genieten in Boho style</value>
+<value>Midden in het Pietermaai District</value>
+<value>Knus &amp; kleinschalig hotel</value>
+<value>Met persoonlijke touch</value>
+<value>Barbecueën op de patio</value>
+<value>Zwembad &amp; jacuzzi</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fboho-bohemian-boutique-509705219%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>919.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="29829">
+<name>Bungalows &amp; Villas Papagayo Beach Resort</name>
+<price currency="EUR">1168.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbungalows-en-villas-papagayo-beach-resort-50929829%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/575/5759CBAA2B5B2DF48AA1AA9CAE1D032D.jpg</image>
+<image>https://media.tuicontent.nl/A95/A95E3C68A4F3964B85D9F5FCD9A8A3DA.jpg</image>
+<image>https://media.tuicontent.nl/D54/D54EA8426F7C44CC039202576E4B6E0D.jpg</image>
+<image>https://media.tuicontent.nl/732/732578A3CAD3143673EF5EA051557121.jpg</image>
+<image>https://media.tuicontent.nl/1CE/1CE1B11313A12736A18A74504B9B6C87.jpg</image>
+</images>
+<description><![CDATA[Een eigen vrijstaande villa, alle luxe van thuis en een Caribisch briesje door de palmen. Bij Papagayo Beach Resort in de Jan Thiel Baai heb je echt het gevoel in de tropen te zitten. Maar dan wel in stijl! Buiten en binnen lopen in elkaar over als je de houten schuifwanden van de villa opent. Vanaf de veranda zie je een luie leguaan in een bananenboom klimmen. Mócht je weg willen, dan heeft de vrolijke dame van de receptie leuke tips voor je, zoals flamingo's kijken in de zoutpannen achter het resort. Bij thuiskomst duik je nog even lekker in het zwembad. Bon Bini op Curaçao. Optioneel een auto huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>4.5</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>266</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.87800833333</value>
+</property>
+<property name="latitude">
+<value>12.077502777777</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Voor iedereen op zoek naar luxe</value>
+<value>Vrijstaande bungalows en villa's</value>
+<value>Volle koelkast bij aankomst</value>
+<value>Centraal en rustig gelegen</value>
+<value>100 meter van het strand</value>
+<value>Gratis WiFi in het gehele resort</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbungalows-en-villas-papagayo-beach-resort-50929829%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1168.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="479326">
+<name>Papagayo Beach Hotel</name>
+<price currency="EUR">1029.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fpapagayo-beach-hotel-509479326%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/3BB/3BBB5C02AD68BA8A7CA2D19EB9426A56.jpg</image>
+<image>https://media.tuicontent.nl/CA9/CA9741F3450DAD2CE92C9D7409ACB004.jpg</image>
+<image>https://media.tuicontent.nl/7B2/7B2EA3B39858F2BE594AD1F723DC0D0A.jpg</image>
+<image>https://media.tuicontent.nl/D7F/D7F1722B3F48F512033791366FE43F24.jpg</image>
+<image>https://media.tuicontent.nl/DFC/DFC71C51FC15BBB47F11327066B10292.jpg</image>
+</images>
+<description><![CDATA[Meteen naast de hippe Papagayo Beach Club ligt het unieke Papagayo Beach Hotel. De eigenaren hebben architect Cees den Heijer binnengehaald en dit gecombineerd met de coolste technische snufjes en luxe designspullen. Denk: licht-remote om de sfeer te bepalen, inloop regendouche voor een rise-and-shine start van de dag… Hoe hip kan een hotel zijn! Vanaf een riant balkon kijk je uit over de tropische tuin met het strand van Jan Thiel binnen handbereik. Pak een strandlaken van het hotel mee en vlij neer op een van de witte loungebedden. Klaar voor een Blue Curaçao cocktail? Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>8.8</value>
+</property>
+<property name="numberOfReviews">
+<value>302</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.87765765</value>
+</property>
+<property name="latitude">
+<value>12.07487848</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Op zoek naar hip en luxe?</value>
+<value>Hier krijg je waar voor je geld</value>
+<value>Direct aan het Jan Thiel strand</value>
+<value>Gratis toegang tot de gym</value>
+<value>Met recht een populair hotel</value>
+<value>Gratis WiFi: vakantiefoto's delen</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fpapagayo-beach-hotel-509479326%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1029.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="33452">
+<name>Bon Bini Seaside Resort</name>
+<price currency="EUR">902.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbon-bini-seaside-resort-50933452%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/AC1/AC102F0260259F356535F20A281C146D.jpg</image>
+<image>https://media.tuicontent.nl/3B4/3B4FC590AF4BC703907A8CF93158BE96.jpg</image>
+<image>https://media.tuicontent.nl/DA5/DA51F5CDF3779F3266F21B8C0AFB18AD.jpg</image>
+<image>https://media.tuicontent.nl/90F/90F6DC5055A10E055E98FC1B4F93A59A.jpg</image>
+<image>https://media.tuicontent.nl/4D8/4D819C9F4F69052F33F486B3B201A8F4.jpg</image>
+</images>
+<description><![CDATA[Een ijskoud drankje doen op de veranda van je bungalow, chillen bij het zwembad en slenteren naar hip Mambo Beach, dat gaat nergens beter dan bij Bon Bini Seaside Resort. Al die vrijstaande huisjes in vrolijke kleuren bij elkaar leveren een 3-sterrenresort op waar je volgende zonvakantie wéér naartoe wilt. Met een moderne keuken en dito meubels zou je bijna binnen blijven, ware het niet dat de Curaçao Beach Boulevard lonkt. Een paar minuten lopen en je shopt bij de Dushi Store en nipt cocktails bij Madero Ocean Club. Spring daarna op de gratis resortshuttle naar de supermarkt, want vanavond is het zelf kokkerellen. En als toetje is er ijs. Wel even zelf halen aan het strand! Optioneel een auto huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Mambo Beach</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>9.4</value>
+</property>
+<property name="numberOfReviews">
+<value>136</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.89685</value>
+</property>
+<property name="latitude">
+<value>12.087927777777</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fmambo-beach%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Voor het ultieme vakantiegevoel</value>
+<value>Logeren in een ruime bungalow</value>
+<value>Chillen bij het zwembad</value>
+<value>Uitslapen op fijne bedden</value>
+<value>Alle rust om je heen</value>
+<value>Dicht bij Mambo Beach</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-16</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbon-bini-seaside-resort-50933452%3FDepartureDate%3D2021-05-16%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>902.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="716378">
+<name>The Pearl of the Caribbean</name>
+<price currency="EUR">663.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fthe-pearl-of-the-caribbean-509716378%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/F9C/F9C974BE70C7E01C24D05B09AF059DBF.jpg</image>
+<image>https://media.tuicontent.nl/856/8567967C80A081D5B9AB8215EF1E1DFE.jpg</image>
+<image>https://media.tuicontent.nl/B50/B5049ACCBB77668C9743667D793CE690.jpg</image>
+<image>https://media.tuicontent.nl/4F8/4F82A7D4D50BA6A61A24999821CD4A2D.jpg</image>
+<image>https://media.tuicontent.nl/245/245B56D8CA6CEECD375B644BB9E7CBD2.jpg</image>
+</images>
+<description><![CDATA[Genieten. Dat is vooral waar het om draait bij The Pearl of the Caribbean. Op dit knusse resort is het fijn zitten op het terras voor je bungalow. De weelderige tuin is een genot voor het oog. Grote palmen, roze bloemen en cactussen. Voor tips loop je naar Janine en André die je alles vertellen over het eiland. Niet alleen waar je boodschappen kunt halen, maar ook waar de mooie stranden zijn. Of maak gewoon een gezellig praatje. Om de hoek zit Sint Joris Baai. Een prachtig stuk natuur en een rijk broedgebied. De fregatvogel voelt zich thuis in deze baai. Struin de paden af en ga op zoek naar de leguanen en de Trupial vogel. Dit stukje van Curaçao is een parel.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>9</value>
+</property>
+<property name="numberOfReviews">
+<value>2</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.8311956</value>
+</property>
+<property name="latitude">
+<value>12.1377562</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Kleinschalig en rustig gelegen</value>
+<value>Geniet van de tropische tuin</value>
+<value>Uiterst vriendelijk personeel</value>
+<value>Handig, boek een boodschappen- of borrelpakket bij</value>
+<value>Eropuit? Huur een auto</value>
+<value>Nette moderne bungalows</value>
+<value>Volledig tot rust komen</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fthe-pearl-of-the-caribbean-509716378%3FDepartureDate%3D2021-05-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>663.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="258953">
+<name>Baoase Luxury Resort</name>
+<price currency="EUR">2855.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbaoase-luxury-resort-509258953%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/6F8/6F86A01C547ABA932435EF810539D8D6.jpg</image>
+<image>https://media.tuicontent.nl/661/66175EF7DC5C39A794BDE3FE4F53606F.jpg</image>
+<image>https://media.tuicontent.nl/31D/31D7375A806D8AC46D7837D7379007A8.jpg</image>
+<image>https://media.tuicontent.nl/49A/49AC7193FD443119FF44048627F04965.jpg</image>
+<image>https://media.tuicontent.nl/ED5/ED55BAC8945E321F1898EFD9B24027A2.jpg</image>
+</images>
+<description><![CDATA[Er is luxe, super-de-luxe en super-de-super-de-luxe. In deze laatste categorie valt het Baoase Luxury Resort op Curaçao. Iedere levensgenieter voelt zich hier als een jetsetter in The Caribbean. Hier douche je onder de sterren, ligt het privéstrand voor de deur en maakt de chef-kok het diner tot een culinair feestje. De lastigste beslissing is of je in een suite of villa wilt logeren. De Banyan Tree kamer heeft een buitenbadkamer, de Suite zeezicht haar eigen infinity pool en vanuit de Villa zeezicht heb je direct toegang tot het zwembad. Allemaal ultramodern en met een Balinese touch. Hoe zen is dat! Willemstad ligt om de hoek, maar zeg nou zelf: welke jetsetter gaat uit eten als de beach butler je op je wenken bedient?]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>5</value>
+</property>
+<property name="rating">
+<value>9.9</value>
+</property>
+<property name="numberOfReviews">
+<value>4</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.911182</value>
+</property>
+<property name="latitude">
+<value>12.094624</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Naar wens met privé butler</value>
+<value>Liefhebbers van luxe opgelet</value>
+<value>Inclusief directe transfer</value>
+<value>Loft, villa of honeymoonsuite?</value>
+<value>Met eigen pool of buitendouche</value>
+<value>Zonnen op het privé strand</value>
+<value>Willemstad om de hoek</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbaoase-luxury-resort-509258953%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>2855.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="73742">
+<name>Academy Hotel Curaçao</name>
+<price currency="EUR">819.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Facademy-hotel-curacao-50973742%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/B59/B591302C77521D50A671EEE91D67E917.jpg</image>
+<image>https://media.tuicontent.nl/AAA/AAAE84CDE0A34A5E0EC23AE538B57AEB.jpg</image>
+<image>https://media.tuicontent.nl/E11/E11544C7B165A84232C409ED3B9E90AF.jpg</image>
+<image>https://media.tuicontent.nl/0F1/0F1F03AD28DFB61B5E2A126BEEB023FD.jpg</image>
+<image>https://media.tuicontent.nl/3DE/3DE1F03011ACFD8D41DB42B44DBE8401.jpg</image>
+</images>
+<description><![CDATA[Academy Hotel Curaçao, de naam zegt het al: hier werkt de toekomstige generatie hoteliers van Curaçao. Dit bijzondere hotel is het leerbedrijf van de hotelschool in Willemstad. Het gele pand uit 1878 is altijd al een hotel geweest. En met de pontjesbrug op 5 minuten loopafstand, is het een perfecte uitvalsbasis. De kamers zijn basic, maar met een eenvoudig restaurant voor het ontbijt en een glimlach van alle studenten zijn de twee sterren van Academy genoeg voor een geslaagde zonvakantie. Stap naar buiten en ontdek de trendy bars van historisch Pietermaai. Of slenter door de gezellige straatjes en steegjes in Punda, het oudste gedeelte van Willemstad. Meer van het eiland zien? Met een huurauto ben je zo in Westpunt.
+Optioneel een auto bij huren tijdens je verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>2</value>
+</property>
+<property name="rating">
+<value>6.9</value>
+</property>
+<property name="numberOfReviews">
+<value>74</value>
+</property>
+<property name="accommodationType">
+<value></value>
+</property>
+<property name="longitude">
+<value>-68.93218333333</value>
+</property>
+<property name="latitude">
+<value>12.104669444444</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Voor reizigers met een budget</value>
+<value>De hoteliers zijn in opleiding</value>
+<value>Midden in historisch Punda</value>
+<value>Proef het echte Curaçao</value>
+<value>Service met een glimlach</value>
+<value>5 minuten lopen van pontjesbrug</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Facademy-hotel-curacao-50973742%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>819.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="73081">
+<name>Pietermaai Boutique Hotel</name>
+<price currency="EUR">903.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fpietermaai-boutique-hotel-50973081%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/EB0/EB039FE5BAFF52840AF34339C211C248.jpg</image>
+<image>https://media.tuicontent.nl/822/82238B4938811899BE14B2A4B1CFACE0.jpg</image>
+<image>https://media.tuicontent.nl/FD0/FD0314A9D6A6D36A54EF9396172949D5.jpg</image>
+<image>https://media.tuicontent.nl/74F/74F08602750BB207E93C66222D9D3769.jpg</image>
+<image>https://media.tuicontent.nl/1AD/1AD5BF9C252A130C20219E06EEF4B88D.jpg</image>
+</images>
+<description><![CDATA[Curaçao eind 1700: de vrolijk gekleurde woningen van kooplieden en scheepskapiteins schitteren in de Caribische zon. De Pietermaai Appartementen - ooit een thuis, nu een karaktervol boutiquehotel - vertellen allemaal hun eigen verhaal. De vriendelijke medewerkers vertellen je graag over de historie. Met de houten shutterramen, originele tegelvloeren en hoge balkplafonds ga je terug in het verleden. Maar dan wel met de luxe en het comfort van nu. Hemelbedden met klamboes, airco en hippe meubels maken een zonvakantie hier tot een relaxte belevenis. Plons in een van de kleine-maar-fijne zwembaden, geniet van de rust op het binnenplein of bestel een 'café loco' bij dat gezellige barretje om de hoek. Aan leuke restaurants hier geen gebrek. De wijk Pietermaai is the place to be in Willemstad. Toen én nu. Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>8.7</value>
+</property>
+<property name="numberOfReviews">
+<value>65</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.92908633</value>
+</property>
+<property name="latitude">
+<value>12.10320392</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Pittoresk slapen in Pietermaai</value>
+<value>Een charmante plek met karakter</value>
+<value>Logeer in Oudhollandse huisjes</value>
+<value>Met de luxe van nu</value>
+<value>Met een sfeervol binnenplein</value>
+<value>Omringd door leuke restaurants</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-03-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fpietermaai-boutique-hotel-50973081%3FDepartureDate%3D2021-03-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>903.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="258996">
+<name>Boutique Hotel 't Klooster</name>
+<price currency="EUR">919.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fboutique-hotel-t-klooster-509258996%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/DC2/DC2362670293B44604AB9718B3E9EA46.jpg</image>
+<image>https://media.tuicontent.nl/B8B/B8B8F46AA9419EF121F8DF4364479458.jpg</image>
+<image>https://media.tuicontent.nl/8BF/8BF449C3E45FC5ED265641BB6CA18715.jpg</image>
+<image>https://media.tuicontent.nl/184/1845F5495566C65D5C1693D3B33B428A.jpg</image>
+<image>https://media.tuicontent.nl/3E2/3E296D64D7C6FFD98C380A4993E230B7.jpg</image>
+</images>
+<description><![CDATA[Een knalgeel klooster, zoals je het alleen ziet op Curaçao. In 2009 opende Hotel 't Klooster de voormalige kloosterdeuren. Alle kamers van dit monumentale pand liggen aan een tropische binnentuin mét hangmatten en een klein-maar-fijn zwembad om éven in af te koelen. Vraag de receptioniste naar tips om het eiland te verkennen, ze helpt je graag. Trek in iets lekkers? Neem dan plaats op de rode pluchen banken in de oude kapel. De serveerster van brasserie Blessing brengt het menu onder toeziend oog van het heilige beeld boven je hoofd. Met glas-in-lood ramen als sfeermakers en de Tia Maria in de bar zit je hier goed. En vanuit hip Pietermaai wandel je zo naar de pontjesbrug in hartje Willemstad. Het is tijd voor een cocktail … of twee. Optioneel een auto huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>8.7</value>
+</property>
+<property name="numberOfReviews">
+<value>22</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.925387</value>
+</property>
+<property name="latitude">
+<value>12.103603</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Logeer in een voormalig klooster</value>
+<value>Van deze plek is er maar 1</value>
+<value>Kamers rondom het zwembad</value>
+<value>Lekker eten in de oude kapel</value>
+<value>Midden in bruisend Pietermaai</value>
+<value>Aandacht voor iedere gast</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fboutique-hotel-t-klooster-509258996%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>919.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="80568">
+<name>TIME TO SMILE Chogogo Dive &amp; Beach Resort Curaçao</name>
+<price currency="EUR">799.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Ftime-to-smile-chogogo-dive-en-beach-resort-curacao-50980568%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/1B0/1B067CC8350757941156C21A09832094.jpg</image>
+<image>https://media.tuicontent.nl/98D/98D9FFF0E5DA2CE95B01D3B788D6A218.jpg</image>
+<image>https://media.tuicontent.nl/AA2/AA2EDC081EA6110390AE8F889B9BD845.jpg</image>
+<image>https://media.tuicontent.nl/699/699721F39052875064DB06E01D924ED7.jpg</image>
+<image>https://media.tuicontent.nl/D5F/D5FD7457FA5117CF2D469790B9776299.jpg</image>
+</images>
+<description><![CDATA[Bij TIME TO SMILE Chogogo Dive & Beach Resort op Curaçao voel je je direct thuis dankzij het vriendelijke personeel en de gemoedelijke sfeer. De barman lacht je toe als je een plekje in de schaduw opzoekt en nog een slok neemt van je verkoelende 'Awa di Lamunchi'. Ondertussen maar eens beslissen bij welk restaurant je je slippers in het zand zet vanavond: Zest, Zanzibar of Tinto. Wat fijn dat het Jan Thiel strand zo dichtbij is. Of blijf lekker op het resort en dineer bij het eigen restaurant van Chogogo. Optioneel een auto huren of een duikpakket bijboeken tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie. Bovendien is deze accommodatie uiterst geschikt voor een Workation. Hier kun je dankzij een comfortabel ingerichte werkplek heerlijk productief werken en tegelijkertijd vakantie vieren.
+Kijk bij Goed om te weten voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>4</value>
+</property>
+<property name="rating">
+<value>8.9</value>
+</property>
+<property name="numberOfReviews">
+<value>1217</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.87908333333</value>
+</property>
+<property name="latitude">
+<value>12.078052777777</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Uitstekende prijs-kwaliteit</value>
+<value>Ruime appartementen en bungalows</value>
+<value>SMEG koelkast en Nespresso koffie</value>
+<value>Relax in de hangmat op je terras</value>
+<value>Duikcursussen voor liefhebbers</value>
+<value>Geschikt voor TUI Workation</value>
+<value>Smile! Met duurzaamheidslabel</value>
+<value>Erkend met duurzaamheidslabel</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-22</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Ftime-to-smile-chogogo-dive-en-beach-resort-curacao-50980568%3FDepartureDate%3D2021-05-22%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>799.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="78028">
+<name>Scuba Lodge &amp; Ocean Suites</name>
+<price currency="EUR">932.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fscuba-lodge-en-ocean-suites-50978028%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/3A6/3A61B0E34F3A13F3AE1B06BC8199DCD7.jpg</image>
+<image>https://media.tuicontent.nl/242/242AF742F4135A6CC021C06B70288935.jpg</image>
+<image>https://media.tuicontent.nl/59B/59BA95D1945D1B3F36EB41561B004A93.jpg</image>
+<image>https://media.tuicontent.nl/056/056876158B5BE554165CFD39EB435CF3.jpg</image>
+<image>https://media.tuicontent.nl/79F/79F18F09774A5F74867F3F9CD86E295F.jpg</image>
+</images>
+<description><![CDATA[Pastelroze, lichtblauw en felgeel staan fier naast elkaar. De eigenaren van Scuba Lodge & Ocean Suites hebben meerdere historische panden weergaloos in ere hersteld in het authentieke Pietermaai. Dé hip-en-happening wijk van Willemstad. Niet zo vreemd, met al die trendy bars, hippe beachclubs en gezellige cafés hier. Scuba Lodge heeft gekozen voor een net zo hip interieur. De authentieke handelshuizen zijn omgetoverd tot hotelkamers met alle moderne luxe van nu. En met een Amerikaanse koelkast, espressomachine en groot terras in de ruime appartementen kan een zonvakantie op dit adres niet meer stuk. Hier voel je je thuis. Zoek de schaduw op onder de palmbomen op het naastgelegen stadsstrand en bestel een ijsje bij het raam. En vergeet niet om de verse pizza uit de unieke Italiaanse oven te proberen. Dit is home sweet home op Curaçao! Optioneel een auto bij huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>3.5</value>
+</property>
+<property name="rating">
+<value>9.2</value>
+</property>
+<property name="numberOfReviews">
+<value>87</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.92789722222</value>
+</property>
+<property name="latitude">
+<value>12.102458333333</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Voor vakantiegangers met smaak</value>
+<value>Met liefde ingerichte kamers</value>
+<value>Ruim appartement of luxe kamer?</value>
+<value>Ontbijten met voeten in het zand</value>
+<value>Met een relaxte PADI-duikschool</value>
+<value>Prachtig uitzicht over zee</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-26</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fscuba-lodge-en-ocean-suites-50978028%3FDepartureDate%3D2021-05-26%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>932.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="636120">
+<name>Bahia Apartments &amp; Diving</name>
+<price currency="EUR">938.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbahia-apartments-en-diving-509636120%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/CA0/CA04929527F4B4341595BE2C348E7FFE.jpg</image>
+<image>https://media.tuicontent.nl/945/945FF04FC057F0920807B2C73A20239E.jpg</image>
+<image>https://media.tuicontent.nl/5EC/5EC4E4B15F6EB97D37822651587FB3FE.jpg</image>
+<image>https://media.tuicontent.nl/4F9/4F9743C3AC3C2775EDE8DE0E957A185C.jpg</image>
+<image>https://media.tuicontent.nl/2C5/2C56059B7A85D9F7AF3A9026A514B632.jpg</image>
+</images>
+<description><![CDATA[Bahia Apartments & Diving, gelegen bovenop een rotsplateau met een prachtig uitzicht op de baai van Lagun. Hier spot je schildpadden tijdens je snorkel- of duik avontuur op Curaçao. Helemaal handig dat er een PADI duikschool is. En regel vooraf al je ongelimiteerd lucht & lood duikpakket. Het strand is direct toegankelijk met een trap vanaf het complex. En als gast van Bahia mag je gratis gebruik maken van de ligbedden op het strand. De studio's en het drie-kamerappartement zijn comfortabel ingericht mét keuken. Als de avond is gevallen kijk je vanaf het sfeervolle Bahia Restaurant over de verlichte baai. Hier geniet je van heerlijke internationale gerechten. Probeer ook zeker de Curaçaose pompoen pannenkoek, volgens de Nederlandse eigenaar een favoriet op de menukaart. Op donderdagavond is het feest; een heerlijke BBQ of Krioyo (lokaal eten) met gezellige muziek. Optioneel een auto huren tijdens het verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Lagun</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>8.8</value>
+</property>
+<property name="numberOfReviews">
+<value>14</value>
+</property>
+<property name="accommodationType">
+<value>appartementen</value>
+</property>
+<property name="longitude">
+<value>-69.1504569</value>
+</property>
+<property name="latitude">
+<value>12.3182733</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Flagun%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Tijdelijk gratis airco, upgrade en late check-out*</value>
+<value>Een begrip in Lagun</value>
+<value>Fijne appartementen</value>
+<value>Gelegen aan een prachtige baai</value>
+<value>Regel vooraf al je duikpakket</value>
+<value>5* PADI duikschool aanwezig</value>
+<value>Ideale duik- en snorkel locatie</value>
+<value>Even weg van alle drukte</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fbahia-apartments-en-diving-509636120%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>938.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="482166">
+<name>Casa Amalia</name>
+<price currency="EUR">858.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fcasa-amalia-509482166%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/4AD/4ADBF03277FAA0BC568A16BFB31D3B8A.jpg</image>
+<image>https://media.tuicontent.nl/8AE/8AE48E4BD7CE3944CFAEB227714D92A7.jpg</image>
+<image>https://media.tuicontent.nl/318/3189ED2960B61D7E7BE954AE7D4CD261.jpg</image>
+<image>https://media.tuicontent.nl/187/187ED570FD71A8BDB6CEE78BD8918C94.jpg</image>
+<image>https://media.tuicontent.nl/091/091C7D5B2D0ADDA99502E606CB0574B0.jpg</image>
+</images>
+<description><![CDATA[Casa Amalia is een villa omgebouwd tot een intiem vakantieadres waar je je snel thuis voelt. De service komt hier vanuit het hart. In het kleinschalige complex bij de Jan Thiel Baai heerst een gemoedelijke sfeer. Het bestaat uit twee delen: het villa gedeelte met 9 kamers en een appartementengebouw met 8 ruime appartementen, ideaal voor koppels en singles. Stap onder de inloopdouche vandaan, pak een ijskoud biertje uit je eigen koelkast en zak weg in de zalige ligbedden rondom het zwembad. Begin de dag relaxed met yoga of geniet later in dag van een heerlijke ontspanningsmassage. Als je wilt weten wat er in de omgeving van Jan Thiel allemaal te beleven valt, krijg je van de vriendelijke eigenaar meer dan genoeg tips om deze zonvakantie op Curaçao mee te vullen. Op dit vakantieadres is alles perfect verzorgd. Het is alsof je bij een goede vriend op Curaçao verblijftOptioneel een auto bij huren tijdens je verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Jan Thiel Baai</value>
+</property>
+<property name="stars">
+<value>3</value>
+</property>
+<property name="rating">
+<value>8.2</value>
+</property>
+<property name="numberOfReviews">
+<value>50</value>
+</property>
+<property name="accommodationType">
+<value>hotel &amp; appartementen</value>
+</property>
+<property name="longitude">
+<value>-68.87132764</value>
+</property>
+<property name="latitude">
+<value>12.08237452</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fjan-thiel-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Waar de eigenaar je naam kent</value>
+<value>Adults only</value>
+<value>Huiselijke sfeer</value>
+<value>Relaxen onder de palapa</value>
+<value>Jan Thiel strand om de hoek</value>
+<value>Hier is het op en top verzorgd</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-06-25</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fcasa-amalia-509482166%3FDepartureDate%3D2021-06-25%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>858.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="693429">
+<name>Dreams Curaçao Resort, Spa &amp; Casino</name>
+<price currency="EUR">1278.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fdreams-curacao-resort-spa-en-casino-509693429%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/C59/C590D38A9AF0CA0B0C19B836E27B9F9E.jpg</image>
+<image>https://media.tuicontent.nl/F08/F08AFB9C1D2ED7FBC02225B4CE491D39.jpg</image>
+<image>https://media.tuicontent.nl/799/799239C10C7EDB798E0BC84652AB73C2.jpg</image>
+<image>https://media.tuicontent.nl/057/057F48011239C24A6E995AB9073CDCF7.jpg</image>
+<image>https://media.tuicontent.nl/61B/61BA24F18E0DEFDE88B5DCC6326DEBC1.jpg</image>
+</images>
+<description><![CDATA[Dromen komen écht uit op Curaçao. Het nieuwe Dreams Curaçao Resort heeft een fraaie ligging direct aan de Piscadera Baai. Liefhebbers van luxe opgelet, want met het unieke Unlimited-Luxury® All Inclusive concept word jij volledig in de watten gelegd. Onbeperkt genieten, geweldige restaurants om te dineren maar ook beach party's, danslessen en yoga. Aan het einde van de vakantie spreek je een aardig woordje Papiamento of Spaans door de taalcursus. Bon! Met het uitgebreide entertainmentprogramma van Dreams hoef je je geen moment te vervelen. Ontdek je culinaire kunsten tijdens een kookworkshop en leer hoe je de lekkerste cocktails maakt. Natuurlijk is er alle tijd en ruimte om het rustig aan te doen, het is niet voor niks vakantie. Terwijl jij relaxt aan het zwembad, wordt jouw favoriete drankje geserveerd. En als je op-en-top luxe wil, boek dan een Preferred Club Suite met een privé check-in en een lounge met hors-d'oeuvres, desserts en likeuren. Wegdromen is gegarandeerd. Optioneel een auto bij huren tijdens een verblijf op Curaçao? Zie TIP! voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="All Inclusive">All Inclusive</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Piscadera Baai</value>
+</property>
+<property name="stars">
+<value>5</value>
+</property>
+<property name="rating">
+<value>7.5</value>
+</property>
+<property name="numberOfReviews">
+<value>5</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.9682841</value>
+</property>
+<property name="latitude">
+<value>12.1211208</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fpiscadera-baai%2F</value>
+</property>
+<property name="allInclusive">
+<value>true</value>
+</property>
+<property name="facilities">
+<value>Liefhebbers van luxe opgelet!</value>
+<value>Geniet van Unlimited-Luxury®</value>
+<value>Op je wenken bediend worden</value>
+<value>Vermaak voor de hele familie</value>
+<value>Preferred Club, nóg meer luxe</value>
+<value>Culinaire verrassingen</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-11</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Fdreams-curacao-resort-spa-en-casino-509693429%3FDepartureDate%3D2021-05-11%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1278.00</value>
+</property>
+</variation>
+</variations>
+</product>
+<product ID="72796">
+<name>Avila Beach Hotel</name>
+<price currency="EUR">1071.00</price>
+<URL>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Favila-beach-hotel-50972796%2F</URL>
+<images>
+<image>https://media.tuicontent.nl/BEE/BEEE3091BD4743CD06FFBB3B772B745C.jpg</image>
+<image>https://media.tuicontent.nl/129/1295D00A9908F41CE0EE9C57F3FB1786.jpg</image>
+<image>https://media.tuicontent.nl/A3E/A3EB35965152913255A83391581F6054.jpg</image>
+<image>https://media.tuicontent.nl/25B/25B586B66FD9CA180980A74E8F25AB8A.jpg</image>
+<image>https://media.tuicontent.nl/B6A/B6AE86D5E4096D7D63CE85BAC103C52F.jpg</image>
+</images>
+<description><![CDATA[Aan twee prachtige baaien in de levendige wijk Pietermaai ligt het Avila Beach Hotel. Het hotel is al 71 jaar een begrip op Curaçao. Hier zon je op een privé-strand, ontdek je al snorkelend het mooie huisrif, vind je producten van Rituals in de luxe badkamer en zijn er kamers met een prachtig zeezicht, maar ook speciale kamers voor mindervaliden. Of je nu voor de moderne Octagon vleugel kiest, de Caribische Ocean Front Blues of voor een kamer in de gerenoveerde La Belle Alliance vleugel, overal word je op-en-top verwend. Neem een duik in het infinity zwembad of wandel of pak de gratis shuttle naar hartje Willemstad. En vanavond? Dan staat de zonsondergang op het programma, mét een cocktail in het Blues Bar & Restaurant op de pier, lekkere snack in het Schooner Bar & Terrace of een culinair hoogstandje in restaurant The Pen. Er zijn daarnaast talloze leuke restaurants en bars op loopafstand. Verwen jezelf in de Spa en sport in de luxe gym met zeezicht, inclusief Spinning en Sunset Pilates lessen. Hier Geniet je met een grote G. Dat deze heerlijke strandvakantie maar nooit mag eindigen! Bovendien is deze accommodatie uiterst geschikt voor een Workation. Hier kun je dankzij een comfortabel ingerichte werkplek heerlijk productief werken en tegelijkertijd vakantie vieren.
+Kijk bij Goed om te weten voor meer informatie.]]></description>
+<categories>
+<category path="Zonvakantie">Zonvakantie</category>
+<category path="Verre reizen">Verre reizen</category>
+<category path="Vakantie">Vakantie</category>
+<category path="Cruises">Cruises</category>
+</categories>
+<properties>
+<property name="country">
+<value>Curaçao</value>
+</property>
+<property name="region">
+<value>Curaçao</value>
+</property>
+<property name="city">
+<value>Willemstad</value>
+</property>
+<property name="stars">
+<value>4.5</value>
+</property>
+<property name="rating">
+<value>9.1</value>
+</property>
+<property name="numberOfReviews">
+<value>186</value>
+</property>
+<property name="accommodationType">
+<value>hotel</value>
+</property>
+<property name="longitude">
+<value>-68.921525</value>
+</property>
+<property name="latitude">
+<value>12.10001111</value>
+</property>
+<property name="countryURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2F</value>
+</property>
+<property name="regionURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2F</value>
+</property>
+<property name="cityURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Freizen%2Fcuracao%2Fcuracao%2Fwillemstad%2F</value>
+</property>
+<property name="allInclusive">
+<value>false</value>
+</property>
+<property name="facilities">
+<value>Relax op het witte zandstrand voor de deur</value>
+<value>Loopafstand van de Handelskade, Willemstad en vele restaurants en bars</value>
+<value>Snorkelen over het mooie huisrif</value>
+<value>Koppels en families; wees welkom</value>
+<value>Cocktails aan infinity pool</value>
+<value>Geschikt voor TUI Workation</value>
+<value>Luxe spa en fitness</value>
+<value>Logeer in een hotel met historie</value>
+<value>Erkend met duurzaamheidslabel</value>
+</property>
+<property name="M7product">
+<value></value>
+</property>
+</properties>
+<variations>
+<variation>
+<property name="departureDate">
+<value>2021-05-27</value>
+</property>
+<property name="duration">
+<value>9</value>
+</property>
+<property name="numberOfPersons">
+<value>2</value>
+</property>
+<property name="priceType">
+<value>pp</value>
+</property>
+<property name="transportType">
+<value>Flight</value>
+</property>
+<property name="bookingURL">
+<value>https://reis.tui.nl/?tt=433_472021_94250_&amp;r=https%3A%2F%2Fwww.tui.nl%2Favila-beach-hotel-50972796%3FDepartureDate%3D2021-05-27%26Duration%3D9%26TransportType%3D2%23prijzen-en-boeken</value>
+</property>
+<property name="origin">
+<value>vanaf Amsterdam</value>
+</property>
+<property name="departurePrice">
+<value>1071.00</value>
+</property>
+</variation>
+</variations>
+</product>
+</products>
+<!-- Total number of products: 30 -->
